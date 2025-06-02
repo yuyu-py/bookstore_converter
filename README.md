@@ -1,0 +1,2 @@
+# bookstore_converter
+書店システム用XMLからJSONへのデータ変換ツール
